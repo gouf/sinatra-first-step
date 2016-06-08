@@ -1,0 +1,15 @@
+{
+  "name": "sinatra-first-step",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
