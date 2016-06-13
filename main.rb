@@ -1,5 +1,5 @@
 class SinatraFirstStep < Sinatra::Base
   get '/' do
-    '<h1>Hello, Sinatra</h1>'
+    send_file 'views/index.html'
   end
 end
